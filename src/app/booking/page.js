@@ -44,9 +44,8 @@ export default function Page() {
 								src='https://i.ibb.co/vZpZWs1/Screenshot-from-2020-06-12-11-53-06.png'
 								alt=''
 								className='w-full h-full'
-								width={450}
-								height={450}
-								style={{ width: "auto", height: "auto" }}
+								width={500}
+								height={500}
 							/>
 						</div>
 						<div>
